@@ -73,7 +73,7 @@ Download the `.dmg` from the [latest release](../../releases/latest) and follow 
   </picture>
 </p>
 
-This is a tester build. Apple hasn't notarized it yet, so the first launch of each download needs **Open Anyway** in System Settings → Privacy & Security. The install steps walk through it.
+This is a tester build. Apple hasn't notarized it yet, so macOS blocks the disk image and then the app, and each needs **Open Anyway** in System Settings → Privacy & Security. The install steps walk through it, and give a Terminal command that skips both.
 
 ## Feedback
 
