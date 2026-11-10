@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"><b>Talk through what you see. Draw on what you mean.</b><br>
-Feedback on any window, ready to paste into Claude Code.</p>
+Feedback on any window, ready to paste into any coding agent.</p>
 
 <p align="center">
   <a href="../../releases/latest"><img src="https://img.shields.io/badge/Download_for_Mac-FF5A36?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>
@@ -23,7 +23,7 @@ Feedback on any window, ready to paste into Claude Code.</p>
 
 1. **Hold Right ⌥** with any window in front: an app, a site, a design.
 2. **Talk, and draw** circles, arrows or dots on what you're talking about. Each mark gets a number.
-3. **Let go.** The session is on your clipboard. Paste it into Claude Code, an issue or a chat: what you said, tied to the marks you made, with the frames you were looking at.
+3. **Let go.** The session is on your clipboard. Paste it into your coding agent, an issue or a chat: what you said, tied to the marks you made, with the frames you were looking at.
 
 <p align="center">
   <img src="images/pill.png" width="280" alt="The pill: a recording dot, the time, your voice level, clear, pause and cancel">
